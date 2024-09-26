@@ -115,7 +115,7 @@ h1 {
   height: 3rem;
 }
 
-.label-score {
+.label-score, .label-highscore {
   margin-bottom: 2rem;
 }
 
@@ -149,7 +149,7 @@ h1 {
     padding: 1.5rem 2.5rem;
   }
 
-  .message, .label-score {
+  .message, .label-score, .label-highscore {
     font-size: 1.6rem;
     margin-bottom: 4rem;
   }
@@ -175,7 +175,7 @@ h1 {
     padding: 1rem 2rem;
   }
 
-  .message, .label-score {
+  .message, .label-score, .label-highscore {
     font-size: 1.4rem;
     margin-bottom: 2rem;
   }
